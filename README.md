@@ -1,4 +1,4 @@
-![amber Logo](https://static-assets.amberstudent.com/amber-user-website/static/amberstudent/assets/images/components/Header/assets/amber-logo-dark.svg)
+![amber Logo](https://s3.eu-west-1.amazonaws.com/assets-dev.staging-amber.com/amber.gif)
 
 # Welcome to amberstudent!
 
